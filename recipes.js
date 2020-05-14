@@ -1,0 +1,1 @@
+const recipes = '<h1>Recipes</h1>';
